@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - PlayerShot
+  - Enemy
+  - EnemyShot
+  - Boom
+  - Boss
+  - Manager
+  - Laser
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Player
+  - PlayerShot
+  - Enemy
+  - EnemyShot
+  - Boom
+  - Particle
+  - Boss
+  - Manager
+  - Laser
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PostProcesing
+  - PlayerNoDamage
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4101527129
+    locked: 0
+  - name: Player
+    uniqueID: 1679097441
+    locked: 0
+  - name: PlayerShot
+    uniqueID: 526289453
+    locked: 0
+  - name: Enemy
+    uniqueID: 1370595947
+    locked: 0
+  - name: EnemyShot
+    uniqueID: 242187965
+    locked: 0
+  - name: Boom
+    uniqueID: 1783340415
+    locked: 0
+  - name: Boss
+    uniqueID: 1977988195
+    locked: 0
+  - name: Manager
+    uniqueID: 1659864109
+    locked: 0
+  - name: Laser
+    uniqueID: 2857233867
+    locked: 0
+  - name: Item
+    uniqueID: 175176745
+    locked: 0
